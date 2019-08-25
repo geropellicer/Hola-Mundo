@@ -1,2 +1,4 @@
 # Hola-Mundo
-Aprendiendo GitHun
+Aprendiendo GitHub
+
+Quise decir GitHub.
